@@ -1,3 +1,4 @@
+## gracias a todos!!
 ## diseño de base de datos
 
 * Base de datos común entre aplicaciones.
